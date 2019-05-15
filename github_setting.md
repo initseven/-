@@ -1,4 +1,4 @@
-#github配置
+# github配置
 
 - cd ~/.ssh
 
