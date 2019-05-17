@@ -1,8 +1,8 @@
-#github配置
+# github配置
 
 - cd ~/.ssh
 
-- ssh-keygen -t rsa -C "461860830@qq.com"
+- ssh-keygen -t rsa -C "your email"
 
 - 回车
 
